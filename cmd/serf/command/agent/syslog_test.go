@@ -4,8 +4,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/hashicorp/go-syslog"
-	"github.com/hashicorp/logutils"
+	"github.com/Beeketing/go-syslog"
+	"github.com/Beeketing/logutils"
 )
 
 func TestSyslogFilter(t *testing.T) {

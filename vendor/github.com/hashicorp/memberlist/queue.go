@@ -4,7 +4,7 @@ import (
 	"math"
 	"sync"
 
-	"github.com/google/btree"
+	"github.com/Beeketing/btree"
 )
 
 // TransmitLimitedQueue is used to queue messages to broadcast to

@@ -3,7 +3,7 @@ package serf
 import (
 	"net"
 
-	"github.com/hashicorp/memberlist"
+	"github.com/Beeketing/memberlist"
 )
 
 type MergeDelegate interface {

@@ -9,8 +9,8 @@ import (
 	"os/signal"
 	"strings"
 
-	"github.com/bgentry/speakeasy"
-	"github.com/mattn/go-isatty"
+	"github.com/Beeketing/speakeasy"
+	"github.com/Beeketing/go-isatty"
 )
 
 // Ui is an interface for interacting with the terminal, or "interface"

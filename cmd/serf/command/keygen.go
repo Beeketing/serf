@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/mitchellh/cli"
+	"github.com/Beeketing/cli"
 )
 
 // KeygenCommand is a Command implementation that generates an encryption

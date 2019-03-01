@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mitchellh/cli"
+	"github.com/Beeketing/cli"
 )
 
 func TestQueryCommandRun_noName(t *testing.T) {

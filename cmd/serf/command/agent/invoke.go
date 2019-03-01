@@ -11,9 +11,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/armon/circbuf"
-	"github.com/armon/go-metrics"
-	"github.com/hashicorp/serf/serf"
+	"github.com/Beeketing/circbuf"
+	"github.com/Beeketing/go-metrics"
+	"github.com/Beeketing/serf/serf"
 )
 
 const (

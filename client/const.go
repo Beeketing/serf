@@ -4,8 +4,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/hashicorp/serf/coordinate"
-	"github.com/hashicorp/serf/serf"
+	"github.com/Beeketing/serf/coordinate"
+	"github.com/Beeketing/serf/serf"
 )
 
 const (

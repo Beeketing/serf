@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/hashicorp/serf/client"
-	"github.com/hashicorp/serf/cmd/serf/command/agent"
-	"github.com/mitchellh/cli"
+	"github.com/Beeketing/serf/client"
+	"github.com/Beeketing/serf/cmd/serf/command/agent"
+	"github.com/Beeketing/cli"
 )
 
 // QueryCommand is a Command implementation that is used to trigger a new

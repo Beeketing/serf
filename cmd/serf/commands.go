@@ -4,9 +4,9 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/hashicorp/serf/cmd/serf/command"
-	"github.com/hashicorp/serf/cmd/serf/command/agent"
-	"github.com/mitchellh/cli"
+	"github.com/Beeketing/serf/cmd/serf/command"
+	"github.com/Beeketing/serf/cmd/serf/command/agent"
+	"github.com/Beeketing/cli"
 )
 
 // Commands is the mapping of all the available Serf commands.

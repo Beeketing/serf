@@ -10,8 +10,8 @@ import (
 	"sync"
 	"text/template"
 
-	"github.com/armon/go-radix"
-	"github.com/posener/complete"
+	"github.com/Beeketing/go-radix"
+	"github.com/Beeketing/complete"
 )
 
 // CLI contains the state necessary to run subcommands and parse the

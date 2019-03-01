@@ -6,8 +6,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/hashicorp/logutils"
-	"github.com/mitchellh/cli"
+	"github.com/Beeketing/logutils"
+	"github.com/Beeketing/cli"
 )
 
 // MonitorCommand is a Command implementation that queries a running

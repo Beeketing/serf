@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/mitchellh/cli"
+	"github.com/Beeketing/cli"
 )
 
 // LeaveCommand is a Command implementation that instructs

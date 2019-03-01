@@ -6,9 +6,9 @@ import (
 	"net"
 	"strings"
 
-	"github.com/hashicorp/serf/cmd/serf/command/agent"
-	"github.com/mitchellh/cli"
-	"github.com/ryanuber/columnize"
+	"github.com/Beeketing/serf/cmd/serf/command/agent"
+	"github.com/Beeketing/cli"
+	"github.com/Beeketing/columnize"
 )
 
 // MembersCommand is a Command implementation that queries a running

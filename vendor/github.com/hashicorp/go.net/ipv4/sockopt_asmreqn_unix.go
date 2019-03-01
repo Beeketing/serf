@@ -11,7 +11,7 @@ import (
 	"os"
 	"unsafe"
 
-	"github.com/hashicorp/go.net/internal/iana"
+	"github.com/Beeketing/go.net/internal/iana"
 )
 
 func getsockoptIPMreqn(fd, name int) (*net.Interface, error) {

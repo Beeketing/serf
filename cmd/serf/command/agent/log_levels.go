@@ -3,7 +3,7 @@ package agent
 import (
 	"io/ioutil"
 
-	"github.com/hashicorp/logutils"
+	"github.com/Beeketing/logutils"
 )
 
 // LevelFilter returns a LevelFilter that is configured with the log

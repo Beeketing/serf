@@ -11,8 +11,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/posener/complete/cmd"
-	"github.com/posener/complete/match"
+	"github.com/Beeketing/complete/cmd"
+	"github.com/Beeketing/complete/match"
 )
 
 const (

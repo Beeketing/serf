@@ -24,8 +24,8 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/google/btree"
-	"github.com/petar/GoLLRB/llrb"
+	"github.com/Beeketing/btree"
+	"github.com/Beeketing/GoLLRB/llrb"
 )
 
 var (

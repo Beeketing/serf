@@ -45,7 +45,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/mitchellh/cli"
+	"github.com/Beeketing/cli"
 )
 
 func main() {

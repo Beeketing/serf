@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/armon/go-metrics"
+	"github.com/Beeketing/go-metrics"
 )
 
 /*

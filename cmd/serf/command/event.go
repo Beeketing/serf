@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/mitchellh/cli"
+	"github.com/Beeketing/cli"
 )
 
 // EventCommand is a Command implementation that queries a running

@@ -15,7 +15,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/hashicorp/logutils"
+	"github.com/Beeketing/logutils"
 )
 
 func main() {

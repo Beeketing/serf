@@ -5,9 +5,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hashicorp/serf/serf"
-	"github.com/hashicorp/serf/testutil"
-	"github.com/mitchellh/cli"
+	"github.com/Beeketing/serf/serf"
+	"github.com/Beeketing/serf/testutil"
+	"github.com/Beeketing/cli"
 )
 
 func TestForceLeaveCommandRun(t *testing.T) {

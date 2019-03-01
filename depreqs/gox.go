@@ -1,7 +1,7 @@
 package depreqs
 
 import (
-	"github.com/mitchellh/gox"
+	"github.com/Beeketing/gox"
 )
 
 func main() {

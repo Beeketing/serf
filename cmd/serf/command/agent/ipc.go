@@ -34,11 +34,11 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/armon/go-metrics"
-	"github.com/hashicorp/go-msgpack/codec"
-	"github.com/hashicorp/logutils"
-	"github.com/hashicorp/serf/coordinate"
-	"github.com/hashicorp/serf/serf"
+	"github.com/Beeketing/go-metrics"
+	"github.com/Beeketing/go-msgpack/codec"
+	"github.com/Beeketing/logutils"
+	"github.com/Beeketing/serf/coordinate"
+	"github.com/Beeketing/serf/serf"
 )
 
 const (

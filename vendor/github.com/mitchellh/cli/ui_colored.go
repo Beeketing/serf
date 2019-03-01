@@ -1,7 +1,7 @@
 package cli
 
 import (
-	"github.com/fatih/color"
+	"github.com/Beeketing/color"
 )
 
 const (

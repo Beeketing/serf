@@ -9,7 +9,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/armon/go-metrics"
+	"github.com/Beeketing/go-metrics"
 )
 
 type nodeStateType int

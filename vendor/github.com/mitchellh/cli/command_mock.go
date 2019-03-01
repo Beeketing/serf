@@ -1,7 +1,7 @@
 package cli
 
 import (
-	"github.com/posener/complete"
+	"github.com/Beeketing/complete"
 )
 
 // MockCommand is an implementation of Command that can be used for tests.

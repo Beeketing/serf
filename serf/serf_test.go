@@ -12,10 +12,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hashicorp/go-msgpack/codec"
-	"github.com/hashicorp/memberlist"
-	"github.com/hashicorp/serf/coordinate"
-	"github.com/hashicorp/serf/testutil"
+	"github.com/Beeketing/go-msgpack/codec"
+	"github.com/Beeketing/memberlist"
+	"github.com/Beeketing/serf/coordinate"
+	"github.com/Beeketing/serf/testutil"
 )
 
 func testConfig() *Config {

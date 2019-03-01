@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/mitchellh/cli"
-	"github.com/ryanuber/columnize"
+	"github.com/Beeketing/cli"
+	"github.com/Beeketing/columnize"
 )
 
 type KeysCommand struct {

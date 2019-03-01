@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hashicorp/logutils"
+	"github.com/Beeketing/logutils"
 )
 
 func TestIPCLogStream(t *testing.T) {

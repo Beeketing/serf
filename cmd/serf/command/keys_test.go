@@ -5,11 +5,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/hashicorp/memberlist"
-	"github.com/hashicorp/serf/client"
-	"github.com/hashicorp/serf/cmd/serf/command/agent"
-	"github.com/hashicorp/serf/serf"
-	"github.com/mitchellh/cli"
+	"github.com/Beeketing/memberlist"
+	"github.com/Beeketing/serf/client"
+	"github.com/Beeketing/serf/cmd/serf/command/agent"
+	"github.com/Beeketing/serf/serf"
+	"github.com/Beeketing/cli"
 )
 
 func testKeysCommandAgent(t *testing.T) *agent.Agent {

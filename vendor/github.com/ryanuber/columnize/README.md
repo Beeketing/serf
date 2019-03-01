@@ -18,7 +18,7 @@ package main
 
 import (
     "fmt"
-    "github.com/ryanuber/columnize"
+    "github.com/Beeketing/columnize"
 )
 
 func main() {

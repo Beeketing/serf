@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/hashicorp/serf/serf"
-	"github.com/mitchellh/cli"
+	"github.com/Beeketing/serf/serf"
+	"github.com/Beeketing/cli"
 )
 
 // VersionCommand is a Command implementation prints the version.

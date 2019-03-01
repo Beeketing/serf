@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hashicorp/serf/client"
-	"github.com/hashicorp/serf/serf"
-	"github.com/hashicorp/serf/testutil"
+	"github.com/Beeketing/serf/client"
+	"github.com/Beeketing/serf/serf"
+	"github.com/Beeketing/serf/testutil"
 )
 
 func testRPCClient(t *testing.T) (*client.RPCClient, *Agent, *AgentIPC) {

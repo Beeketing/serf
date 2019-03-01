@@ -7,7 +7,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/miekg/dns"
+	"github.com/Beeketing/dns"
 )
 
 const (

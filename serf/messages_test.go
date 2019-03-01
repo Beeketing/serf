@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/hashicorp/go-msgpack/codec"
+	"github.com/Beeketing/go-msgpack/codec"
 )
 
 func TestQueryFlags(t *testing.T) {

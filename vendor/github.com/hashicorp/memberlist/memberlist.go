@@ -26,9 +26,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	multierror "github.com/hashicorp/go-multierror"
-	sockaddr "github.com/hashicorp/go-sockaddr"
-	"github.com/miekg/dns"
+	multierror "github.com/Beeketing/go-multierror"
+	sockaddr "github.com/Beeketing/go-sockaddr"
+	"github.com/Beeketing/dns"
 )
 
 type Memberlist struct {

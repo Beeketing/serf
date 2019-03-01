@@ -6,7 +6,7 @@ import (
 	"os/user"
 	"path/filepath"
 
-	"github.com/hashicorp/go-multierror"
+	"github.com/Beeketing/go-multierror"
 )
 
 type installer interface {

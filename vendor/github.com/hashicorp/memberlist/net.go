@@ -11,8 +11,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	metrics "github.com/armon/go-metrics"
-	"github.com/hashicorp/go-msgpack/codec"
+	metrics "github.com/Beeketing/go-metrics"
+	"github.com/Beeketing/go-msgpack/codec"
 )
 
 // This is the minimum and maximum protocol version that we can

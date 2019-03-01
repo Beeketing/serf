@@ -14,7 +14,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/mattn/go-isatty"
+	"github.com/Beeketing/go-isatty"
 	"os"
 )
 

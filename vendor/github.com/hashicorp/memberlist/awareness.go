@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/armon/go-metrics"
+	"github.com/Beeketing/go-metrics"
 )
 
 // awareness manages a simple metric for tracking the estimated health of the

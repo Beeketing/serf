@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/hashicorp/serf/cmd/serf/command/agent"
-	"github.com/mitchellh/cli"
+	"github.com/Beeketing/serf/cmd/serf/command/agent"
+	"github.com/Beeketing/cli"
 )
 
 // TagsCommand is an interface to dynamically add or otherwise modify a

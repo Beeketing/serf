@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/mitchellh/cli"
+	"github.com/Beeketing/cli"
 )
 
 // ForceLeaveCommand is a Command implementation that tells a running Serf

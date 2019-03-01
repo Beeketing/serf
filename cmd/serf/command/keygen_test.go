@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"testing"
 
-	"github.com/mitchellh/cli"
+	"github.com/Beeketing/cli"
 )
 
 func TestKeygenCommand(t *testing.T) {

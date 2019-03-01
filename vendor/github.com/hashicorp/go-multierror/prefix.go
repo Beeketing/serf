@@ -3,7 +3,7 @@ package multierror
 import (
 	"fmt"
 
-	"github.com/hashicorp/errwrap"
+	"github.com/Beeketing/errwrap"
 )
 
 // Prefix is a helper function that will prefix some text

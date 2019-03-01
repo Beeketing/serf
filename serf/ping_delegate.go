@@ -4,10 +4,10 @@ import (
 	"bytes"
 	"time"
 
-	"github.com/armon/go-metrics"
-	"github.com/hashicorp/go-msgpack/codec"
-	"github.com/hashicorp/memberlist"
-	"github.com/hashicorp/serf/coordinate"
+	"github.com/Beeketing/go-metrics"
+	"github.com/Beeketing/go-msgpack/codec"
+	"github.com/Beeketing/memberlist"
+	"github.com/Beeketing/serf/coordinate"
 )
 
 // pingDelegate is notified when memberlist successfully completes a direct ping

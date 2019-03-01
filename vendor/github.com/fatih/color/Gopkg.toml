@@ -22,9 +22,9 @@
 
 
 [[constraint]]
-  name = "github.com/mattn/go-colorable"
+  name = "github.com/Beeketing/go-colorable"
   version = "0.0.9"
 
 [[constraint]]
-  name = "github.com/mattn/go-isatty"
+  name = "github.com/Beeketing/go-isatty"
   version = "0.0.3"

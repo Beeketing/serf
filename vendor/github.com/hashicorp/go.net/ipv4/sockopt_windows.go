@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/hashicorp/go.net/internal/iana"
+	"github.com/Beeketing/go.net/internal/iana"
 )
 
 func getInt(fd syscall.Handle, opt *sockOpt) (int, error) {
